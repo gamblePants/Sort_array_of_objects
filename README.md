@@ -1,5 +1,13 @@
 # Sort array of objects
 
+- Program creates an array of objects (animals)
+- Displays array via alert in browser
+- Adds 2 more animals to the array
+- Numerically sorts array by number of legs
+- Displays array in alert
+- Alphabetically sorts array by animal name
+- Displays alert
+
 A simple html/javascript file which creates an array of objects (in this case animals). Then adds 2 more objects to the array. Then sorts 
 the array by number of animal legs. Then sorts the array alphabetically by animal name. The information is displayed in alerts in the browser:
 
