@@ -7,6 +7,14 @@ the array by number of animal legs. Then sorts the array alphabetically by anima
 
 ## Purpose
 
-Mostly as a learning exercise for myself, as I'm currently learning JavaScript.
+Mostly to help myself learn methods for sorting arrays in JavaScript.
+
+## How to run program
+
+<ul>
+  <li>Easiest way is to run the program online on JSFiddle: https://jsfiddle.net/gamblePants/1z7cfyk8/</li>
+  <li>(You will have to click OK through all 3 alerts, before being able to view the code in full)</li>
+  <li>Alternatively go to the "release" tab above, then rightclick on the exercise9.html file and select "Save As"</li>
+  <li>Once you have downloaded the html file you can double-click on it to run in a browser, or open with a text editor to view the code</li>
 
 
