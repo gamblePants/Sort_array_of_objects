@@ -16,15 +16,21 @@ Mostly to help myself learn methods for sorting arrays in JavaScript.
   <li>(You will have to click OK through all 3 alerts, before being able to view the code in full)</li>
   <li>Alternatively go to the "release" tab above, right-click on the exercise9.html file and select "Save As"</li>
   <li>Save the html file to your computer</li>
-  <li>Double-click the file to run in your browser</li>
-  <li>Or open the file with a text editor to view the code</li>
+  <li>Double-click file to run in your browser</li>
+  <li>Or open file with a text editor to view the code</li>
 </ul>
 
 ## Code snippets
 
 Sort numerically by number of animal legs:
-![sortBy_animalLegs.PNG](https://gamblepants.github.io/img/sortBy_animalLegs.PNG)
+```C#
+const sortedByLegs = animals.sort(function(a, b) {
+        return a.legs - b.legs;
+      });
 
+```
 Sort alphabetically by animal name:
-![sortBy_animalName.PNG](https://gamblepants.github.io/img/sortBy_animalName.PNG)
+```C#
+const sortedByName = animals.sort((a, b) => (a.type > b.type) ? 1 : ((b.type > a.type) ? -1 : 0));
+```
 
