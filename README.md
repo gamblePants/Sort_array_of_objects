@@ -20,3 +20,13 @@ Mostly to help myself learn methods for sorting arrays in JavaScript.
   <li>Or open the file with a text editor (like notepad) to view the code</li>
 </ul>
 
+![Release_Tab_02.PNG](https://gamblepants.github.io/img/Release_Tab_02.PNG)
+
+## Code snippets
+
+Sort numerically by number of animal legs:
+![sortBy_animalLegs.PNG](https://gamblepants.github.io/img/sortBy_animalLegs.PNG)
+
+Sort alphabetically by animal name:
+![sortBy_animalName.PNG](https://gamblepants.github.io/img/sortBy_animalName.PNG)
+
