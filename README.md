@@ -17,7 +17,7 @@ Mostly to help myself learn methods for sorting arrays in JavaScript.
   <li>Alternatively go to the "release" tab above, right-click on the exercise9.html file and select "Save As"</li>
   <li>Save the html file to your computer</li>
   <li>Double-click the file to run in your browser</li>
-  <li>Or open the file with a text editor (like notepad) to view the code</li>
+  <li>Or open the file with a text editor to view the code</li>
 </ul>
 
 ## Code snippets
