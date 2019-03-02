@@ -21,7 +21,7 @@ Mostly to help myself learn methods for sorting arrays in JavaScript.
 - Alternatively go to the "release" tab above, right-click on the exercise9.html file and select "Save As"
 - Save the html file to your computer
 - Double-click file to run in your browser
-- Or open file with a text editor to view the code
+- Open file with a text editor to view the code
 
 
 ## Code snippets
