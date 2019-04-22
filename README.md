@@ -18,8 +18,8 @@ Mostly to help myself learn methods for sorting arrays in JavaScript.
 
 - Easiest way is to run the program online on JSFiddle: https://jsfiddle.net/gamblePants/1z7cfyk8/
 - (You will have to click OK through all 3 alerts, before being able to view the code in full)
-- Alternatively go to the "release" tab above, right-click on the exercise9.html file and select "Save As"
-- Save the html file to your computer
+- Alternatively go to the [Release] page 
+- Click on the exercise9.html file to download it to your computer
 - Double-click file to run in your browser
 - Open file with a text editor to view the code
 
